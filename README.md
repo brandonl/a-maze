@@ -5,4 +5,5 @@ User's can use the mouse and click a square to create the walls of the maze or d
 
 Used: Pyglet.
 
-<iframe src="http://player.vimeo.com/video/38237200?title=0&amp;byline=0&amp;portrait=0" width="400" height="300" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+Exciting clip:
+http://player.vimeo.com/video/38237200?title=0&amp;byline=0&amp;portrait=0
